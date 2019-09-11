@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://silviadeleon.com/blog/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleon.com/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleon.com/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleon.com/categories/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleon.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleon.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleon.com/categories/personal/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleon.com/en/categories/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleon.com/categories/personal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleon.com/tags/silvia/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://silviadeleon.com/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleon.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleon.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleon.com/about/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleon.com/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleon.com/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleon.com/tags/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleon.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleon.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleon.com/blog/hello/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleon.com/en/blog/hello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleon.com/blog/hello/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleon.com/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleon.com/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleon.com/contact/"
+                />
+  </url>
+  
+</urlset>
