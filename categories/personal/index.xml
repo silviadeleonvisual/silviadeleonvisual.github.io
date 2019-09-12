@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal on Silvia de León</title>
-    <link>https://silviadeleon.com/categories/personal/</link>
-    <description>Recent content in Personal on Silvia de León</description>
+    <title>Personal on silviadeleon</title>
+    <link>https://silviadeleonvisual.github.io/categories/personal/</link>
+    <description>Recent content in Personal on silviadeleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://silviadeleon.com/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://silviadeleonvisual.github.io/categories/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>¡Hola!</title>
-      <link>https://silviadeleon.com/blog/hello/</link>
+      <link>https://silviadeleonvisual.github.io/blog/hello/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://silviadeleon.com/blog/hello/</guid>
+      <guid>https://silviadeleonvisual.github.io/blog/hello/</guid>
       <description>Mi nombre es Silvia y soy una Ingeniera Informática apasionada por los dibujos y las cosas hechas a mano.
 Desde que terminé mi carrera&amp;hellip;..allá por el 2014, he trabajado como desarrolladora (principalmente en Javascript). En estos años, he trabajado en empresas que usaban metodologías ágiles donde es muy importante la visualización. Por ello, cuando descubrí que el Visual Thinking (Pensamiento Visual) era algo concreto, no pude evitar querer aprender. Poder unir mi profesión con mi hobby es sencillamente fantástico.</description>
     </item>
