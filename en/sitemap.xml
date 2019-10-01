@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://silviadeleonvisual.github.io/en/about/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://silviadeleonvisual.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://silviadeleonvisual.github.io/en/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://silviadeleonvisual.github.io/en/blog/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -34,7 +19,7 @@
   
   <url>
     <loc>https://silviadeleonvisual.github.io/en/categories/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -48,43 +33,13 @@
   </url>
   
   <url>
-    <loc>https://silviadeleonvisual.github.io/en/blog/hello/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://silviadeleonvisual.github.io/blog/hello/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://silviadeleonvisual.github.io/en/blog/hello/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://silviadeleonvisual.github.io/en/tags/myself/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://silviadeleonvisual.github.io/en/categories/personal/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://silviadeleonvisual.github.io/categories/personal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://silviadeleonvisual.github.io/en/categories/personal/"
-                />
+    <loc>https://silviadeleonvisual.github.io/en/categories/definitions/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://silviadeleonvisual.github.io/en/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -99,7 +54,7 @@
   
   <url>
     <loc>https://silviadeleonvisual.github.io/en/tags/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -109,6 +64,51 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://silviadeleonvisual.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleonvisual.github.io/en/tags/visual-thinking/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleonvisual.github.io/tags/visual-thinking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleonvisual.github.io/en/tags/visual-thinking/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleonvisual.github.io/en/blog/20191001whatisvisualthinking/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleonvisual.github.io/blog/20191001whatisvisualthinking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleonvisual.github.io/en/blog/20191001whatisvisualthinking/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleonvisual.github.io/en/about/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleonvisual.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleonvisual.github.io/en/about/"
                 />
   </url>
   

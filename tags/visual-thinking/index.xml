@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on silviadeleon</title>
-    <link>https://silviadeleonvisual.github.io/blog/</link>
-    <description>Recent content in Blog on silviadeleon</description>
+    <title>visual thinking on silviadeleon</title>
+    <link>https://silviadeleonvisual.github.io/tags/visual-thinking/</link>
+    <description>Recent content in visual thinking on silviadeleon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://silviadeleonvisual.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://silviadeleonvisual.github.io/tags/visual-thinking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
