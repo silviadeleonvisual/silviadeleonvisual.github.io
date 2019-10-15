@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>procesos on silviadeleon</title>
+    <link>https://silviadeleonvisual.github.io/tags/procesos/</link>
+    <description>Recent content in procesos on silviadeleon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://silviadeleonvisual.github.io/tags/procesos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualización de Procesos</title>
+      <link>https://silviadeleonvisual.github.io/blog/20191001processesvisualization/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://silviadeleonvisual.github.io/blog/20191001processesvisualization/</guid>
+      <description>No se si te pasa, pero para mí, la necesidad de coger papel y boli cuando voy a explicar algo es innata. Incluso, para entender yo un proceso, necesito hacer dibujitos y de esta forma aclarar mis ideas. Unas cajas, un par de flechas y títulos y listo.
+¿Te pasa a ti? Pues eso es una forma más de utilizar el Pensamiento Visual.
+Lo que ocurre es que es más fácil describir conceptos complejos con dibujos y relaciones que con palabras.</description>
+    </item>
+    
+  </channel>
+</rss>

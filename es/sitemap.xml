@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://silviadeleonvisual.github.io/blog/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://silviadeleonvisual.github.io/categories/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,18 +33,23 @@
   </url>
   
   <url>
-    <loc>https://silviadeleonvisual.github.io/categories/definiciones/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <loc>https://silviadeleonvisual.github.io/tags/ejemplos/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://silviadeleonvisual.github.io/tags/libros/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <loc>https://silviadeleonvisual.github.io/categories/herramientas/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://silviadeleonvisual.github.io/tags/procesos/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://silviadeleonvisual.github.io/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,7 +64,7 @@
   
   <url>
     <loc>https://silviadeleonvisual.github.io/tags/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -70,6 +75,31 @@
                 hreflang="es"
                 href="https://silviadeleonvisual.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleonvisual.github.io/blog/20191001processesvisualization/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://silviadeleonvisual.github.io/en/blog/20191001processesvisualization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://silviadeleonvisual.github.io/blog/20191001processesvisualization/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://silviadeleonvisual.github.io/categories/definiciones/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://silviadeleonvisual.github.io/tags/libros/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
